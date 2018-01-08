@@ -73,10 +73,5 @@ void loop()
 }
 ```
 <br><br>
-This diagram shows a diagram of the hash table used to associate the commands to the functions.
+Out of the program:
 ![](media/serial_output.png)
-
-<br><br>
-###### Command message format:
-![](media/format.png)
-
