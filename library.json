@@ -17,5 +17,5 @@
   "version": "1.0",
   "frameworks": "arduino",
   "platforms": "*",
-  "license": "MIT"
+  "license": "MIT" 
 } 
