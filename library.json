@@ -1,6 +1,7 @@
 {
   "name": "ConfigDB",
   "keywords": "EEPROM,configuration",
+  "license": "MIT", 
   "description": "A fast way to store configurations data in the fake EEPROM memory (NodeMCU / esp8266 12e)",
   "repository":
   {
@@ -16,6 +17,5 @@
   ],
   "version": "1.0",
   "frameworks": "arduino",
-  "platforms": "*",
-  "license": "MIT" 
+  "platforms": "*"  
 } 
