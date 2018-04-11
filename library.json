@@ -1,0 +1,21 @@
+{
+  "name": "ConfigDB",
+  "keywords": "EEPROM,configuration",
+  "description": "A fast way to store configurations data in the "EEPROM" memory (NodeMCU / esp8266 12e)",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/Eitol/ConfigDB.git"
+  },
+  "authors":
+  [
+    {
+      "name": "Hector Oliveros",
+      "maintainer": true
+    }
+  ],
+  "version": "1.0",
+  "frameworks": "arduino",
+  "platforms": "*",
+  "license": "MIT"
+} 
