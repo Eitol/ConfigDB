@@ -1,7 +1,7 @@
 {
   "name": "ConfigDB",
   "keywords": "EEPROM,configuration",
-  "description": "A fast way to store configurations data in the "EEPROM" memory (NodeMCU / esp8266 12e)",
+  "description": "A fast way to store configurations data in the fake EEPROM memory (NodeMCU / esp8266 12e)",
   "repository":
   {
     "type": "git",
